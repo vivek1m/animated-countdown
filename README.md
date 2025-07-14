@@ -6,6 +6,7 @@ It uses 🎨 CSS animations and transitions to produce smooth visual effects—l
 Additional capabilities may include 🎛️ pause and resume, 📐 responsive design, and 📦 easy integration into existing web pages via minimal script embedding.
 The project is built with ✨ readable, modular code, making it simple to customize, extend, or theme for specific applications.
 Perfect for websites needing a countdown to events, product launches, or limited-time offers—all wrapped in a responsive and visually appealing UI.
+you can download and excess it.
 
 
 
